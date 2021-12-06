@@ -1,2 +1,2 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+# graphql-full-stack
+A web application for authorizing users, built with React, GraphQL, Node.js and MongoDB.
